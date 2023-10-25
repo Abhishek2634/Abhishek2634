@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek farshwal
+- 👋 Hi, I’m Abhishek farshwal.
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on developement
