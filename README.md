@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Abhishek farshwal.
+# Engineer And Developer
+- 👋 Hi, I’m Abhishek Farshwal.
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on developement
 - 📫 How to reach me "www.linkedin.com/in/abhishekfarswal"
-# Engineer
-i am a engineer.
+  i am a engineer.
 
 
 
