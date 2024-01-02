@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on developement
 - 📫 How to reach me "www.linkedin.com/in/abhishekfarswal"
-  i am a engineer.
+- i am a engineer.
 
 
 
