@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Abhishek Farshwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira Code&size=30&color=#70F767FF&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=70F767&random=false&width=435&lines=Hello+There+...;I+Am+A;Passionate+Developer;And+A+Good+Problem+Solver)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/champ-farswal/champ-farswal/blob/main/coding-freak%20(1).gif">
 
