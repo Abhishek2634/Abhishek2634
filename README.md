@@ -215,9 +215,9 @@
 
 ## 📊 My Github Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=champ-farswal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=champ-farswal&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=champ-farswal&theme=tokyonight" align="center" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek2634&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2634&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2634&theme=tokyonight" align="center" />
 </p>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -227,7 +227,7 @@
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=champ-farswal&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek2634&column=7"/>
   </a>
 </div>
 
@@ -242,7 +242,7 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{champ-farswal}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Abhishek2634}/count.svg" /></p> 
 <br></div>
 
 
