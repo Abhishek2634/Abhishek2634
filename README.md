@@ -106,6 +106,20 @@
   /></a>
 </p>
 
+## Hacktoberfest(24) Badges 🪶
+
+<div style="display:flex; align-items:center; gap: 10px;" align="center">
+  <a href="https://holopin.io/@abhishek2634">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGxiYTZ5ZW4xNTE3MDBmbDRhdHdudWZ2dyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="250px" height="250px" />
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTF6ZWx0aDQ3MDI1MGNqeGQ3em1hbWswIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="250px" height="250px" />
+  </a>
+</div>
+
+  
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
