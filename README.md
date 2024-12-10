@@ -56,7 +56,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.codechef.com/users/abhishek_win"
+    href="https://www.codechef.com/users/ab_pro24"
     target="_blank"
     ><img
       align="center"
@@ -96,7 +96,7 @@
       width="40"
   /></a>
   <a
-    href="https://auth.geeksforgeeks.org/user/abhishekfar6fni"
+    href="https://www.geeksforgeeks.org/user/dsa_badshah/"
     target="_blank"
     ><img
       align="center"
