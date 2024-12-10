@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Abhishek Farshwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3000&pause=100&color=70F767&random=false&width=435&lines=Hello+There+..👋;I+Am+A;Passionate+Developer;And+A+Good+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=100&color=70F767&random=false&width=435&lines=Hello👋...+Welcome+To+My+Profile;A+Software+Developer+From+India☠️;A+Good+Problem+Solver;An+Open+Source+Contributor🔥" alt="Typing SVG" />
 </div>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/champ-farswal/champ-farswal/blob/main/coding-freak%20(1).gif">
@@ -106,31 +107,23 @@
   /></a>
 </p>
 
-## Hacktoberfest(24) Badges 🪶
+<h2><i>Opensource Badges🎖️</i></h2>
+<table >
+<h5><i>GSSOC(24) Badges</i></h5>	
+  <tr>
+    <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></td>
+  </tr>
+</table>
+<h5><i>Hacktoberfest Badges</i></h5>
 
-<div style="display:flex; align-items:center; gap: 10px;" align="center">
-  <a href="https://holopin.io/@abhishek2634">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
-    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-0-0-0.webp" width="250px" height="250px" />
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGxiYTZ5ZW4xNTE3MDBmbDRhdHdudWZ2dyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="250px" height="250px" />
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTF6ZWx0aDQ3MDI1MGNqeGQ3em1hbWswIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="250px" height="250px" />
-  </a>
-</div>
+[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Abhishek2634)](https://holopin.io/@Abhishek2634)
 
-  
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-</div>
-<h2>My Skills</h2>
+<h2> 🔥 My Skills </h2>
 <!----------------- Frontend Section ------------------>
 <h3 align="left">Frontend:</h3>
 <p>
@@ -235,16 +228,30 @@
 
 
 
-## 📊 My Github Stats
+## ☠️ My Github Stats
+![Abhishek's github activity graph](https://raw.githubusercontent.com/Abhishek2634/Abhishek2634/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek2634&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2634&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2634&theme=tokyonight" align="center" />
+  <a href="https://github.com/Abhishek2634">
+    <img title="GitHub Stats" alt="Abhishek's streak" src="https://streak-stats.demolab.com/?user=Abhishek2634&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
 </p>
 
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+<p align="center">
+  <a href="https://github.com/Abhishek2634">
+    <img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek2634&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
+  </a>
+  <a href="https://github.com/Abhishek2634">
+    <img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2634&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ---
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek2634&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Abhishek2634/github-readme-activity-graph)
+
+![Abhishek's github activity graph](https://raw.githubusercontent.com/Abhishek2634/Abhishek2634/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
@@ -253,14 +260,12 @@
   </a>
 </div>
 
----
-
 
 <div align="center">
   
-## Here is a random joke that'll make you laugh!
+## 😁 Here is a random joke that'll make you laugh! 😆
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -276,7 +281,7 @@
 
 <hr>
 <p align="center">
-  <i>Ask me anything I'am Happy to Help! </i>
+  <i>Ask me anything I'am Happy to Help! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </i>
   <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/abhishekfarswal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:abhishekfarshwal2634@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
