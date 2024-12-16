@@ -108,7 +108,7 @@
 </p>
 
 <h2>🏆 Coding Profiles</h2>
-<a href="https://leetcode.com/u/AbhisheK--001" title="Redirects to github page">
+<a href="https://leetcode.com/u/AbhisheK--001" title="Redirects to Leetcode">
 <img width="53%" src="https://leetcard.jacoblin.cool/AbhisheK--001" /></a>
 
 <h2><i>Opensource Badges🎖️</i></h2>
