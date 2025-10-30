@@ -1,7 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,50:764ba2,100:f093fb&text=Abhishek&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=80&section=header&desc=AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=65&descAlign=50&descSize=30&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:10b981,50:059669,100:047857&text=Abhishek&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&section=header&desc=AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=65&descAlign=50&descSize=25&animation=fadeIn" width="100%"/>
 </p>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=130&color=70F767&random=false&width=600&lines=Hello👋...+Welcome+To+My+Profile;I+am+A+Software+Developer+Based+In+India+☠️" alt="Typing SVG" />
@@ -178,6 +180,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:059669,100:047857&height=150&section=footer&animation=fadeIn" width="100%"/>
 </p>
+
 
