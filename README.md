@@ -19,7 +19,7 @@
                       "Degree": "B.TECH Computer Science (Minor In AI/ML)",
                       "College": "Polaris School Of Technology",
                       "CGPA": 9.1,
-                   },
+                 },
       Experience: [ML Intern Resolute Labs India, SDE Intern Shopify],
       Code: ["Javascript", "Typescrip"t, "C++", "Java", "Python", "HTML", "CSS"],
       Tools: ["VS Code", "Github", "PyCharm", "Google Colab", "Docker"],
