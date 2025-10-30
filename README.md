@@ -1,5 +1,6 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Abhishek&reversal=false&textBg=false&fontColor=FFFF00&fontSize=80&section=header&desc=AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=65&descAlign=50&descSize=30&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,50:764ba2,100:f093fb&text=Abhishek&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=80&section=header&desc=AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=65&descAlign=50&descSize=30&animation=twinkling" width="100%"/>
 </p>
 
 <div align="center">
@@ -28,7 +29,7 @@
       Currently_Learning: ["AI Agents", "Operating Systems"],
     }
   ```
-
+- 😀 Fun Fact : My legs are stronger than my arms.
 - 🤝 I'm looking to collaborate on **Open-Source Projects**
 - 💬 Ask me anything, I'm happy to help!
 
@@ -170,7 +171,8 @@
 
 <h3 align="center">👋 Have a Nice Day! 🌈</h3>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&animation=twinkling" width="100%"/>
 </p>
 
