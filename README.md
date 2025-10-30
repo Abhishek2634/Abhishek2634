@@ -148,8 +148,10 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek2634&color=brightgreen&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek2634&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Visitor Count" width="250" />
 </p>
+
+
 
 <br>
 
@@ -161,13 +163,16 @@
 
 <br>
 
+
+## Let's connect and build something amazing together! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 <p align="center">
-  <i>Let's connect and build something amazing together! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></i>
   <br><br>
   <a href="https://www.linkedin.com/in/abhishekfarswal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:abhishekfarshwal2634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/Abhishek899620" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
+
 
 <h3 align="center">👋 Have a Nice Day! 🌈</h3>
 
