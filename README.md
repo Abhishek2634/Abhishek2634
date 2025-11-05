@@ -10,6 +10,9 @@
 </div>
 
 <br>
+<h3 align='center' style='margin: 16px 4px;'>
+    <a href='https://abhisheksite.xyz'>My Portfolio Website</a>
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/champ-farswal/champ-farswal/blob/main/coding-freak%20(1).gif">
 
@@ -36,6 +39,9 @@
 - 💬 Ask me anything, I'm happy to help!
 
 <br clear="right"/>
+
+
+
 
 ## 🌐 Connect With Me
 
@@ -127,7 +133,9 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek2634&column=7"/></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Abhishek2634&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    </a>
 </p>
 
 <br>
