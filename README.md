@@ -127,11 +127,11 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Abhishek's GitHub Streak" 
   src="https://streak-stats.demolab.com/?user=Abhishek2634&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F
   85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8D866&sideLabels=F8D866&dates=AAAAAA" /></a>
-</p>
+</p> -->
 
 <br>
 
