@@ -11,7 +11,7 @@
 
 <br>
 <h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://abhisheksite.xyz'>My Portfolio Website</a>
+    <a href='https://abhishekfarshwal.vercel.app'>My Portfolio Website</a>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/champ-farswal/champ-farswal/blob/main/coding-freak%20(1).gif">
@@ -59,17 +59,19 @@
 
 <br>
 
-## 🎖️ Open Source Badges
+## 🎖️ Open Source 
 
-### GSSoC(24) Badges
-<p align="left">
+### GSoC'26 @INCF
+
+
+<!-- <p align="left">
   <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</p>
+</p> -->
 
 ### Hacktoberfest Badges
 [![Holopin Badges](https://holopin.me/Abhishek2634)](https://holopin.io/@Abhishek2634)
@@ -126,7 +128,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abhishek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Abhishek2634&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <img alt="Abhishek's GitHub Streak" src="https://streak-stats.demolab.com/?user=Abhishek2634&theme=dark&hide_border=true&b
+  ackground=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </p>
 
 <br>
