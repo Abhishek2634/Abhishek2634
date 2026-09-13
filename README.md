@@ -128,8 +128,9 @@
 </p>
 
 <p align="center">
-    <img alt="Abhishek's GitHub Streak" src="https://streak-stats.demolab.com/?user=Abhishek2634&theme=dark&hide_border=true&b
-  ackground=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Abhishek's GitHub Streak" 
+  src="https://streak-stats.demolab.com/?user=Abhishek2634&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F
+  85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8D866&sideLabels=F8D866&dates=AAAAAA" /></a>
 </p>
 
 <br>
