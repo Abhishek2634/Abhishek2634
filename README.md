@@ -61,8 +61,6 @@
 
 ## 🎖️ Open Source 
 
-### GSoC'26 @INCF
-
 
 <!-- <p align="left">
   <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a>
